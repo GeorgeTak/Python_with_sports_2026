@@ -11,6 +11,6 @@ Case Study #8:
 
  Case Study #9: 
 - Data filtering
-- Usage of boxplot & barplot
+- Usage of boxplot, barplot and scatterplot
 - Creation of a new category (Duels_Category)
   
